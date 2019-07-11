@@ -5,3 +5,6 @@ end
 def using_unshift(bouroughs_in_nyc)
   bouroughs_in_nyc.unshift("Staten Island")
 end
+def using_unshift(bouroughs_in_nyc)
+  bouroughs_in_nyc.size
+end
